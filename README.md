@@ -9,6 +9,7 @@ apt install git<br>
 apt install curl<br>
 apt install jq<br>
 pkg install python3<br>
+pip install requests<br>
 git clone https://github.com/CoderSoulful/MailSearch<br><br>
 
 Start:<br>
