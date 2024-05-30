@@ -8,8 +8,9 @@ apt upgrade<br>
 apt install git<br>
 apt install curl<br>
 apt install jq<br>
+pkg install python3<br>
 git clone https://github.com/CoderSoulful/MailSearch<br><br>
 
 Start:<br>
 cd MailSearch<br>
-bash MailSearch.sh<br>
+bash MailSearch.py<br>
