@@ -13,4 +13,4 @@ git clone https://github.com/CoderSoulful/MailSearch<br><br>
 
 Start:<br>
 cd MailSearch<br>
-bash MailSearch.py<br>
+python3 MailSearch.py<br>
